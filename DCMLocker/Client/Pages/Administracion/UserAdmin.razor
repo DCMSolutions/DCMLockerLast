@@ -1,0 +1,49 @@
+﻿@page "/UsersAdmin"
+@using DCMLocker.Shared
+@using DCMLocker.Shared.Locker
+@inject DCMLocker.Client.Cliente.TLockerCliente cliente
+@inject NavigationManager Nav
+<h3>Usuarios</h3>
+<p>Buscador de usuarios</p>
+<form>
+    <div class="form-group">
+        <input type="text" @bind="keyword" class="form-control form-control-user" />
+    </div>
+    <button type="button" class="btn btn-primary btn-user btn-block" @onclick="(() => Search())"><span class="oi oi-magnifying-glass"></span> Buscar</button>
+
+</form>
+<br />
+@if (usuarios != null)
+{
+    <ul>
+        @foreach (string s in usuarios)
+        {
+            var y = s;
+            <li><a @onclick="(()=>GetUser(y))">@s</a></li>
+        }
+    </ul>
+}
+
+
+
+@code {
+    private string keyword;
+    private string[] usuarios = null;
+    async void Search()
+    {
+        usuarios = null;
+        if (!string.IsNullOrEmpty(keyword))
+        {
+            usuarios = await cliente.Search(keyword);
+
+            StateHasChanged();
+        }
+    }
+
+    void GetUser(string s)
+    {
+        Nav.NavigateTo($"/Usuario/{s.Replace("@","%40").Replace(".","%_")}");
+    }
+
+
+}
