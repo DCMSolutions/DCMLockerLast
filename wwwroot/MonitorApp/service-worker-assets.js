@@ -201,7 +201,7 @@
       "url": "MonitorApp\/_framework\/DCMLocker.Shared.dll"
     },
     {
-      "hash": "sha256-yjI3zH2oaXfHbNgltjLqh7FYPoVErsK+ADfXa0kDp0g=",
+      "hash": "sha256-MpUm5pNsyetKrRDX9aRdPi4g7dL7sQPfz\/usFYs8Vqc=",
       "url": "MonitorApp\/_framework\/DCMLocker.Monitor.dll"
     },
     {
@@ -297,7 +297,7 @@
       "url": "MonitorApp\/_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-MkNFfSch3ovx3Y9tvuJrc6m5evrLDrHdQb4GcrEkoP8=",
+      "hash": "sha256-Bk\/XDJHdkjOlu7YTRmo9j\/V0KVnsefz\/7cDbSCHg\/vI=",
       "url": "MonitorApp\/_framework\/blazor.boot.json"
     },
     {
@@ -305,5 +305,5 @@
       "url": "MonitorApp\/_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "c3bDeq9+"
+  "version": "9XEdv707"
 };

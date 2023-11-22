@@ -85,7 +85,7 @@
       "url": "ClientApp\/img\/user.png"
     },
     {
-      "hash": "sha256-LUI1Zu122te3qZQKA9SfgTjGR2nHurR3o0QM5S8RGb0=",
+      "hash": "sha256-ltxoTrnmGYQjOdn01ZTkP5qnR629Onh+OjgrKPz2tig=",
       "url": "ClientApp\/index.html"
     },
     {
@@ -549,7 +549,7 @@
       "url": "ClientApp\/_framework\/Microsoft.Win32.SystemEvents.dll"
     },
     {
-      "hash": "sha256-AYo\/ApTCAtfkIlAk8PjpWkh2ELKp2zqwGZ9rRKmRkkU=",
+      "hash": "sha256-WTvs9wM94U1EhsynBDUHX2uO+qbjAAfzptPSibG0pQI=",
       "url": "ClientApp\/_framework\/OfficeOpenXml.Core.ExcelPackage.dll"
     },
     {
@@ -585,7 +585,7 @@
       "url": "ClientApp\/_framework\/DCMLocker.Shared.dll"
     },
     {
-      "hash": "sha256-TD3qdfEcgBLw65FBe\/rfl6rWvdWLMjm03iT0o64XErM=",
+      "hash": "sha256-Xlid0JLs\/UTcUbh8PYHHf1R1Z5GiltvoWht6mqgFFGY=",
       "url": "ClientApp\/_framework\/DCMLocker.Client.dll"
     },
     {
@@ -805,7 +805,7 @@
       "url": "ClientApp\/_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-E7LKLwNOZ5aFbUr9Oe+mgt+9dsVW34zn1D60fjm4tp4=",
+      "hash": "sha256-Y63C3ZU0ecMviEWjnhD4WP6QoFSC2f5agBgEoFe\/JsE=",
       "url": "ClientApp\/_framework\/blazor.boot.json"
     },
     {
@@ -813,5 +813,5 @@
       "url": "ClientApp\/_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "sHaEATaB"
+  "version": "rWmVl3Ke"
 };
