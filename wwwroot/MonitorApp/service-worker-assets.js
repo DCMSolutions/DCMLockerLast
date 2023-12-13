@@ -197,11 +197,11 @@
       "url": "MonitorApp\/_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-eS2gjAtNwBk0dWtVL1I0Umw4h6MUTSgm6nzBbrVjahg=",
+      "hash": "sha256-Vh39nley19MPG00\/XRHvqJyTmH7QOoOg6H0W6o1jZ6o=",
       "url": "MonitorApp\/_framework\/DCMLocker.Shared.dll"
     },
     {
-      "hash": "sha256-YnmZkJw\/O4phE1lsB0\/lNrW6mpdjHSMmK9v1\/aR+e0o=",
+      "hash": "sha256-GvkRNgRt5c0X4ALO0zIGo5NDe9ftFjy0pgXXgA60BZI=",
       "url": "MonitorApp\/_framework\/DCMLocker.Monitor.dll"
     },
     {
@@ -297,7 +297,7 @@
       "url": "MonitorApp\/_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-\/U4MKLLgwukKVZ\/pBqNoCtfQ3LFHnO8i5DbjvK6QDsE=",
+      "hash": "sha256-MnNtdj9hVfs9Jrmr+tG31tTm6vE4nLPBT4KRic4CiyU=",
       "url": "MonitorApp\/_framework\/blazor.boot.json"
     },
     {
@@ -305,5 +305,5 @@
       "url": "MonitorApp\/_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "TiusHMLO"
+  "version": "o98SNGpc"
 };
