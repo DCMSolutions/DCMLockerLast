@@ -93,7 +93,7 @@
       "url": "KioskApp\/img\/tick.png"
     },
     {
-      "hash": "sha256-u2OAIKsR0vq7pRxQ7D\/2WDYuk7eG+zRowK8sthjzo18=",
+      "hash": "sha256-ciOTvGGNnRHoZ5qHM8Wzfhsbh+GnlQjGF0cmXljZbDs=",
       "url": "KioskApp\/index.html"
     },
     {
@@ -393,5 +393,5 @@
       "url": "KioskApp\/_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "Kh5d3CZq"
+  "version": "j\/Hce7mi"
 };
