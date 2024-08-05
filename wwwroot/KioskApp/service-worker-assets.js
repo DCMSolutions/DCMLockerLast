@@ -93,7 +93,7 @@
       "url": "KioskApp\/img\/tick.png"
     },
     {
-      "hash": "sha256-Lp4Ov0pMQjk1pPG60srt4hz1Uok2H\/oDL58Nxz0sAqA=",
+      "hash": "sha256-cvxIzLIPanLd71XllCOYMOxnpn5PfuSu3I\/RqFif+oA=",
       "url": "KioskApp\/index.html"
     },
     {
@@ -103,6 +103,10 @@
     {
       "hash": "sha256-nLqnTdjC2TmqgGIZOw0RQbQH77MpwLY4p9h\/YSagYqk=",
       "url": "KioskApp\/manifest.json"
+    },
+    {
+      "hash": "sha256-6E4tZeUIgHwJbpBR+iyo1nSaQCd83CJG+\/0G962tnC8=",
+      "url": "KioskApp\/disconnectHandler.js"
     },
     {
       "hash": "sha256-8oJip361m8OrfLRJOuIeswWKaoxtT27\/wINCxhn+s4c=",
@@ -593,5 +597,5 @@
       "url": "KioskApp\/_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "z1KKRQWK"
+  "version": "AV\/6OaPh"
 };
