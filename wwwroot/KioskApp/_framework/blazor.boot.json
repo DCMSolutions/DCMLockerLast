@@ -7,6 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
+      "CurrieTechnologies.Razor.SweetAlert2.dll": "sha256-lvbntpTr5BRhCb+LxY5qyfIoztAyw8oFBRAjuuRSKOg=",
       "Feather.Blazor.dll": "sha256-LoYpNXNZGPiOg1EI2AebI793UrpJEGiBhWcZxCRqtXg=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-kk0ucfM\/+cwV20mxFxprsT30UCMD8+sR2ZVNw+b4xPY=",
       "Microsoft.AspNetCore.Components.dll": "sha256-krR5iOJJfMYwBdRgXs+qFCc1\/LSnCMnDUTu4itmpTx4=",
@@ -40,8 +41,8 @@
       "System.Drawing.Common.dll": "sha256-j1zHJrKyPRg7Is5NbD1gh484REf1TLe3HaJQ+tvNn18=",
       "System.IO.Pipelines.dll": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
       "System.Linq.Dynamic.Core.dll": "sha256-61yf10xm1mazS+QihHv\/qhgTAXV9TJSYFM9yNt07948=",
-      "DCMLocker.Shared.dll": "sha256-xcODhsM8M6U+v6vIA66Lhs\/bTJa\/r+fIvmJr4s8qsBM=",
-      "DCMLocker.Kiosk.dll": "sha256-gZfCEWEKg3qeTX0pdTwAiNQy\/PF4pR31\/mumYgxEgzU=",
+      "DCMLocker.Shared.dll": "sha256-pWHTKyRumLYO9hSLKTrthQeKF0evLEy\/MbtpZrenMa8=",
+      "DCMLocker.Kiosk.dll": "sha256-lto0URnQQXjavhcBXJFZFIJUCMtK4C0xxzho+oaqInI=",
       "Microsoft.CSharp.dll": "sha256-SkvWk7tNCgLDCtrowy7rf7M\/PpG3kmZt5GMITy8WZJg=",
       "Microsoft.Win32.Primitives.dll": "sha256-qTpPJ3sHJfrVRv3BV+Pu3E+FDMPWaR4MjuhtwCda0p4=",
       "System.Buffers.dll": "sha256-raNavWaGjI1ip1bByb\/H80GFWPgcd7ANFpgKRDyrbYA=",

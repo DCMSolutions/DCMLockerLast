@@ -93,7 +93,7 @@
       "url": "KioskApp\/img\/tick.png"
     },
     {
-      "hash": "sha256-TxajxYhUGPn\/It0erQ6Z51Qxshlm2ACMwi3gIEAtq0c=",
+      "hash": "sha256-njlCaEUnxKJA7nvW5BTqK5IdB31LL8N3BdZ7IJ3SN24=",
       "url": "KioskApp\/index.html"
     },
     {
@@ -273,6 +273,146 @@
       "url": "KioskApp\/_content\/Radzen.Blazor\/Radzen.Blazor.js"
     },
     {
+      "hash": "sha256-OMWl10Yz1M4FAva8p8DxQCvjsa8pWY4Ya9i\/\/GdQkBI=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/bootstrap4Theme.css"
+    },
+    {
+      "hash": "sha256-UQwyDCflOyAlFdhJU8wBqtKVZe5AmqqNbtQDBlAAlgM=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/bootstrap4Theme.js"
+    },
+    {
+      "hash": "sha256-OMWl10Yz1M4FAva8p8DxQCvjsa8pWY4Ya9i\/\/GdQkBI=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/bootstrap4Theme.min.css"
+    },
+    {
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/bootstrap4Theme.min.js"
+    },
+    {
+      "hash": "sha256-AaJVEYjGcQgK3yyvZ8VJth++xPBQ5IUNYxd4fs6\/oao=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/borderlessTheme.css"
+    },
+    {
+      "hash": "sha256-UQwyDCflOyAlFdhJU8wBqtKVZe5AmqqNbtQDBlAAlgM=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/borderlessTheme.js"
+    },
+    {
+      "hash": "sha256-AaJVEYjGcQgK3yyvZ8VJth++xPBQ5IUNYxd4fs6\/oao=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/borderlessTheme.min.css"
+    },
+    {
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/borderlessTheme.min.js"
+    },
+    {
+      "hash": "sha256-niqfy+Gf1jGfeCMQAbCvneSBxkzlKS76M9TWIS6v\/ww=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/bulmaTheme.css"
+    },
+    {
+      "hash": "sha256-UQwyDCflOyAlFdhJU8wBqtKVZe5AmqqNbtQDBlAAlgM=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/bulmaTheme.js"
+    },
+    {
+      "hash": "sha256-niqfy+Gf1jGfeCMQAbCvneSBxkzlKS76M9TWIS6v\/ww=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/bulmaTheme.min.css"
+    },
+    {
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/bulmaTheme.min.js"
+    },
+    {
+      "hash": "sha256-8EKQH2aCczK7QWTxF+TpjgjZPYkdqtYa4+nk8hUVzf4=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/darkTheme.css"
+    },
+    {
+      "hash": "sha256-UQwyDCflOyAlFdhJU8wBqtKVZe5AmqqNbtQDBlAAlgM=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/darkTheme.js"
+    },
+    {
+      "hash": "sha256-8EKQH2aCczK7QWTxF+TpjgjZPYkdqtYa4+nk8hUVzf4=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/darkTheme.min.css"
+    },
+    {
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/darkTheme.min.js"
+    },
+    {
+      "hash": "sha256-NAuiqaAZYjgMLwTSaj5xzFTuGnzrTCx\/rkaaTCK\/axc=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/defaultTheme.css"
+    },
+    {
+      "hash": "sha256-UQwyDCflOyAlFdhJU8wBqtKVZe5AmqqNbtQDBlAAlgM=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/defaultTheme.js"
+    },
+    {
+      "hash": "sha256-NAuiqaAZYjgMLwTSaj5xzFTuGnzrTCx\/rkaaTCK\/axc=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/defaultTheme.min.css"
+    },
+    {
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/defaultTheme.min.js"
+    },
+    {
+      "hash": "sha256-o1rcUC6+rQl1FkNFIj17KAgz8iB+E8MUDDygKgZUJgU=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/materialUITheme.css"
+    },
+    {
+      "hash": "sha256-UQwyDCflOyAlFdhJU8wBqtKVZe5AmqqNbtQDBlAAlgM=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/materialUITheme.js"
+    },
+    {
+      "hash": "sha256-o1rcUC6+rQl1FkNFIj17KAgz8iB+E8MUDDygKgZUJgU=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/materialUITheme.min.css"
+    },
+    {
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/materialUITheme.min.js"
+    },
+    {
+      "hash": "sha256-nlhoasiAnf7+xJmNPcWcEU84LZq1CmAKmgbIiKyIKTo=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/minimalTheme.css"
+    },
+    {
+      "hash": "sha256-UQwyDCflOyAlFdhJU8wBqtKVZe5AmqqNbtQDBlAAlgM=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/minimalTheme.js"
+    },
+    {
+      "hash": "sha256-nlhoasiAnf7+xJmNPcWcEU84LZq1CmAKmgbIiKyIKTo=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/minimalTheme.min.css"
+    },
+    {
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/minimalTheme.min.js"
+    },
+    {
+      "hash": "sha256-hTh6FsB0YpcInj1Nd7lqlaKTXIxDq6NiWxpQ8saYHs0=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/sweetAlert2.js"
+    },
+    {
+      "hash": "sha256-xMXPOQ+6lxKxAzUQqZqnT\/1Vhj9GeFKdYNEO96TOikc=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/sweetAlert2.min.js"
+    },
+    {
+      "hash": "sha256-AnWHNvgOSI66gksUzJ+oV8CdLSOx46I9isJ1h2BzH3g=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/wordpressAdminTheme.css"
+    },
+    {
+      "hash": "sha256-UQwyDCflOyAlFdhJU8wBqtKVZe5AmqqNbtQDBlAAlgM=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/wordpressAdminTheme.js"
+    },
+    {
+      "hash": "sha256-AnWHNvgOSI66gksUzJ+oV8CdLSOx46I9isJ1h2BzH3g=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/wordpressAdminTheme.min.css"
+    },
+    {
+      "hash": "sha256-47DEQpj8HBSa+\/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "url": "KioskApp\/_content\/CurrieTechnologies.Razor.SweetAlert2\/wordpressAdminTheme.min.js"
+    },
+    {
+      "hash": "sha256-lvbntpTr5BRhCb+LxY5qyfIoztAyw8oFBRAjuuRSKOg=",
+      "url": "KioskApp\/_framework\/CurrieTechnologies.Razor.SweetAlert2.dll"
+    },
+    {
       "hash": "sha256-LoYpNXNZGPiOg1EI2AebI793UrpJEGiBhWcZxCRqtXg=",
       "url": "KioskApp\/_framework\/Feather.Blazor.dll"
     },
@@ -405,11 +545,11 @@
       "url": "KioskApp\/_framework\/System.Linq.Dynamic.Core.dll"
     },
     {
-      "hash": "sha256-xcODhsM8M6U+v6vIA66Lhs\/bTJa\/r+fIvmJr4s8qsBM=",
+      "hash": "sha256-pWHTKyRumLYO9hSLKTrthQeKF0evLEy\/MbtpZrenMa8=",
       "url": "KioskApp\/_framework\/DCMLocker.Shared.dll"
     },
     {
-      "hash": "sha256-gZfCEWEKg3qeTX0pdTwAiNQy\/PF4pR31\/mumYgxEgzU=",
+      "hash": "sha256-lto0URnQQXjavhcBXJFZFIJUCMtK4C0xxzho+oaqInI=",
       "url": "KioskApp\/_framework\/DCMLocker.Kiosk.dll"
     },
     {
@@ -661,7 +801,7 @@
       "url": "KioskApp\/_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-C4UUDvMbO3FNUKGsO1vuFbGzZMhxsMPQugyGcpeWnfo=",
+      "hash": "sha256-ZseDWBerPn2oJx9hAa\/zvlZDeJtYa+EJ5wUG7qdft\/Y=",
       "url": "KioskApp\/_framework\/blazor.boot.json"
     },
     {
@@ -669,5 +809,5 @@
       "url": "KioskApp\/_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "mzxD6Yy1"
+  "version": "lgN+Mejy"
 };

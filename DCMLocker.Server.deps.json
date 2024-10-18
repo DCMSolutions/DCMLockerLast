@@ -1982,6 +1982,7 @@
       },
       "DCMLocker.Kiosk/1.0.0": {
         "dependencies": {
+          "CurrieTechnologies.Razor.SweetAlert2": "5.3.0",
           "DCMLocker.Shared": "1.0.0",
           "Feather.Blazor": "1.0.1",
           "Microsoft.AspNetCore.Components.Authorization": "5.0.9",
