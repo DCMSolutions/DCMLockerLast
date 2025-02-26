@@ -1970,7 +1970,7 @@
         },
         "runtime": {
           "DCMLocker.Client.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         },
@@ -1992,7 +1992,7 @@
         },
         "runtime": {
           "DCMLocker.Kiosk.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         },
@@ -2010,7 +2010,7 @@
         },
         "runtime": {
           "DCMLocker.Monitor.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         },
@@ -2021,7 +2021,7 @@
       "DCMLocker.Shared/1.0.0": {
         "runtime": {
           "DCMLocker.Shared.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         },
@@ -2032,7 +2032,7 @@
       "DCMLockerCommunication/1.0.0": {
         "runtime": {
           "DCMLockerCommunication.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         },
